@@ -1,0 +1,3 @@
+Write a program to find the result of set of student in one subject. The maximum and the pass mark for the subject are
+available as static data. The student is passed if he/she secure more than the pass marks. Use a static member function for
+calculating the result and a constant member function for printing the result.
