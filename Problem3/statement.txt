@@ -1,0 +1,2 @@
+write a program to find the radius of circle with area equal to that of rectangle.
+The function radius_for_eq_area() should take an argument an object of class rectangle.
